@@ -14,7 +14,8 @@ Tambien al igual que ustedes soy estudiante de tercer año/segundo *tos tos (ope
 
 A lo largo de mi vida practique muchos deportes, Futbol desde los 3, kapoeira, handball y boxeo fue el ultimo last dance (nunca se quedaba quieto el chabon). Ahora solo juego al fulbito con mis amigos.
 
-<img width="678" height="616" alt="image" src="https://github.com/user-attachments/assets/79666e3a-68ca-41ab-b7b9-75a3596b807d" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/79666e3a-68ca-41ab-b7b9-75a3596b807d" />
+
 ## Un poco mas de mi
 
 Para contarles un poco de mi tengo 22 años, elegi esta carrera sin saber si era 100% lo que queria pero con el paso del tiempo me di cuenta que si, estoy en pareja hace 3 años y creo que nada mas me canse de escribir.
